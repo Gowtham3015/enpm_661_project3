@@ -17,4 +17,4 @@ stepsize =6
 The shortest path between the starting and finishing coordinates will be displayed in a visualization of the pathfinding process created by the script. 
 
 GitHub Link: 
-https://github.com/saidineshgelam/ENPM661.git
+https://github.com/Gowtham3015/enpm_661_project3
